@@ -23,8 +23,8 @@
 <a href="https://twitter.com/toji2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toji2604" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivansh aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh aggarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/shiv_cr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_cr710" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivansh agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivansh agarwal" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shivansh aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shivansh aggarwal" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/shivansh agarwal](https://www.hackerrank.com/profile/shivneeraj2004)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivansh agarwal" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@shivansh469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shivansh aggarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
