@@ -82,6 +82,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" height="40" alt="hono">
+  <img src="https://avatars.githubusercontent.com/u/108468352?v=4" height="40" alt="drizzle">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgW7cAlhYN23JXGKy9Uji4Ae2mnHOR9eXX9g&s" height="40" alt="cloudflare">
 </div>
 
 ###
