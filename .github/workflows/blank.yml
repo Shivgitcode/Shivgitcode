@@ -22,6 +22,7 @@ jobs:
       # Options
           template: classic
           base: header, activity, community, repositories, metadata
+          user: Shivgitcode
           config_timezone: Asia/Calcutta
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -52,11 +53,5 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKA_API_KEY }}
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+
           
