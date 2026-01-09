@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       # Options
           template: classic
-          user: Shivgitcode
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
           plugin_languages: yes
@@ -36,4 +35,18 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: Screenshot
+          plugin_screenshot_url: https://www.shivn.tech
+          plugin_screenshot_viewport: '{"width": 1280, "height": 1280}'
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
           
