@@ -52,11 +52,9 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKA_API_KEY }}
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts_type: chartist
           plugin_habits_days: 14
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
           
