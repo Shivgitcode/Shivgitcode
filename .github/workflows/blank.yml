@@ -17,6 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_name: Shivansh Aggarwal
+          committer_email: shivneeraj2004@gmail.com
       # Options
           template: classic
           base: header, activity, community, repositories, metadata
