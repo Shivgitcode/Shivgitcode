@@ -49,5 +49,5 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
-          plugin_wakatime_token: waka_7d9f3666-03e8-4bf5-902a-5cc7cae57780
+          plugin_wakatime_token:  waka_6a95ccea-f109-4e4f-bd44-5629953e4cf3
           
